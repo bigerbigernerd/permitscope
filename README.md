@@ -88,3 +88,9 @@ OpenAI Codex assisted with research, TypeScript/React implementation, styling, S
 
 Original project code is MIT licensed. Third-party dependencies retain their own licenses.
 
+
+## Submission media
+
+[Product demo video](https://www.youtube.com/watch?v=S6Y7p_j_NZk) · [Pitch deck](docs/pitch-deck.pptx) · [Devpost entry](https://devpost.com/software/permitscope)
+
+English synthetic narration, real product recordings, no burned-in subtitles. AI assistance and prototype boundaries are disclosed.
